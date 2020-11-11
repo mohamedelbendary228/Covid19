@@ -1,4 +1,4 @@
-# covid19
+# Animation Splash Screen
 
 A new Flutter project.
 
